@@ -1,0 +1,4 @@
+1. Start
+2. Accept a number
+3. divide number by 2, if remainder is 0, even, else odd
+4. Stop
