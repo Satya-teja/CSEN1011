@@ -1,0 +1,9 @@
+Algorith for prime/composite
+1. Start
+2. Accept a number (>2)
+3.Initailize counter with value 2
+4. divide number with counter
+5. If remainder is 0, display 'n' is composite and stop algorithm.
+6. else increment counter and repeat step 4 until counter value is less than 'n'
+7. After completion of all steps display number n is prime
+8. Stop
