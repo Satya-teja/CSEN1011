@@ -1,14 +1,17 @@
 #include <stdio.h>
 #include <math.h>
 int main() {
-	int p,r,t;
+	double p,r,t,po,a;
 	printf("enter principle:");
-	scanf("%d",&p);
+	scanf("%lf",&p);
 	printf("enter rate:");
-	scanf("%d",&r);
+	scanf("%lf",&r);
 	printf("enter time:");
-	scanf("%d",&t);
-	printf("Simple interest is: %f\n", float(p*r*t/100));
-	printf("Compund interest is: %d\n",(p*(1+r/100)*t));
+	scanf("%lf",&t);
+	a=1+r/100;
+	po=pow(a,t);
+  //  printf("%lf", po);
+	printf("Simple interest is: %lf\n", p*r*t/100);
+	printf("Compund interest is: %lf\n",(p*po));
 	
 }
