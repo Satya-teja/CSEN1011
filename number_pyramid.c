@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int rows,a,spaces,b,c,d=1,e,f,g=1;
+	int rows,a,spaces,b,c=0,d=1,e,f,g=1;
 	printf("enter no. of rows:");
 	scanf("%d",&rows);
 	spaces=rows-1;
