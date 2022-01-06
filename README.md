@@ -28,7 +28,7 @@ Repository to share with Gitam
 [star pattern](star_pattern.c)
 
 ## FLOWCHARTS AND ALGORITHMS
-[Collatz Sequence-F](vollatz seq-fa.rap)
+[Collatz Sequence-F](vollatz_seq-fa.rap)
 
 [Collatz Sequence-A](collatz-fa.txt)
 
@@ -40,9 +40,9 @@ Repository to share with Gitam
 
 [Factorial-A](factorial-fa.txt)
 
-[Changing case-F](changing case -fa.rap)
+[Changing case-F](changing_case-fa.rap)
 
-[Changing case-A](case change -fa.txt)
+[Changing case-A](case_change-fa.txt)
 
 [Factorial sum-F](fact.rap)
 
