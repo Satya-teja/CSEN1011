@@ -5,8 +5,11 @@ Repository to share with Gitam
 [hello world](hello_world.c)
 
 [marks](marks.cpp)
+
 [salary](salary.cpp)
-[SI & CI](simple and compund interest.cpp)
+
+[SI_&_CI](simple and compund interest.cpp)
+
 ## MODULE 2
 [alphabet pattern](ALPHABET_PATTERN.c)
 [star pattern](axtra.c)
