@@ -36,7 +36,7 @@ Repository to share with Gitam
 
 [Switch case-A](calculator-fa.txt)
 
-[Factorial-F](actual fact-fa.rap)
+[Factorial-F](actual_fact-fa.rap)
 
 [Factorial-A](factorial-fa.txt)
 
@@ -48,9 +48,9 @@ Repository to share with Gitam
 
 [Factorial sum-A](factorial_sum-fa.txt)
 
-[Prime rotation-F](prime rotation- fa.rap)
+[Prime rotation-F](prime_rotation-fa.rap)
 
-[Prime rotation-A](prime rotation-fa.txt)
+[Prime rotation-A](prime_rotation-fa.txt)
 
 [Fibonacci sum-F](fibo-sum-fa.rap)
 
@@ -58,4 +58,4 @@ Repository to share with Gitam
 
 [Fibonacci nth-F](fibo_nth_fa.rap)
 
-[Fibonacci nth-A](fibo algo-fa.txt)
+[Fibonacci nth-A](fibo_algo-fa.txt)
