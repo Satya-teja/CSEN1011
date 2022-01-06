@@ -8,7 +8,7 @@ Repository to share with Gitam
 
 [salary](salary.cpp)
 
-[SI_&_CI](simple and compund interest.cpp)
+[SI_&_CI](simple0-and-compund-interest.cpp)
 
 ## MODULE 2
 [alphabet pattern](ALPHABET_PATTERN.c)
