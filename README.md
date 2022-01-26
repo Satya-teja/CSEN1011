@@ -27,6 +27,13 @@ Repository to share with Gitam
 
 [star pattern](star_pattern.c)
 
+## Module 3
+[sum of a series](sum_of_srirs.c)
+[storage classes](storage_classes.c)
+[armstrong, perfect and prime no.](prim_armstron_prfct.c)
+[Highest common factor and lowest common multiple](gcd_lcm.c)
+[Call by value and call by ref](cbv_cbr.c)
+
 ## FLOWCHARTS AND ALGORITHMS
 [Collatz Sequence-F](vollatz_seq-fa.rap)
 
