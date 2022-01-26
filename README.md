@@ -38,6 +38,25 @@ Repository to share with Gitam
 
 [Call by value and call by ref](cbv_cbr.c)
 
+## Module 4
+[Multi dimensional arrays](Multi_arrays.c)
+
+[Passing array in a function](array_func.c)
+
+[Binary search](binary_sarch.c)
+
+[Bubble sort](bubbl_sort.c)
+
+[Linear search](linear_search.c)
+
+[Matrix multiplication](matrix_multiplication.c)
+
+[Minimum and maximum in array](min_max.c)
+
+[Pointer array](ptr_array.c)
+
+[Transpose of a matrix](transpos.c)
+
 ## FLOWCHARTS AND ALGORITHMS
 [Collatz Sequence-F](vollatz_seq-fa.rap)
 
